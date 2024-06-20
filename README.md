@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk melakukan visualisasi data dari website boxOfficemojo
 ## Informasi Proyek
 - **Nama**: Hafiz Ilham Ardana
 - **NPM**: 21082010077
-- **Link Streamlit**: <a href="https://hafizilhamardana077-awdb-viz.streamlit.app/">Klik</a>
+- **Link Streamlit**: <a href="https://hafizilhamardana077-imdb-viz.streamlit.app">Klik</a>
 
 ## Deskripsi Folder
 - **boxOffice_scrapper1.py**: File yang berisi notebook jupyter untuk mengambil data, mengelola, dan memasukan ke file csv.
