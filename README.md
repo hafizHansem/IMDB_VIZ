@@ -1,7 +1,7 @@
 # Final Project DAVIS A: Visualisasi Data Scrapping Web IMDB
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk melakukan visualisasi data dari website boxOfficemojo. Data yang digunakan merupakan hasil scrap dari web tersebut, mengambil data 5 tahun terakhir dari website tersebut dari wilayah indonesia.
+Proyek ini bertujuan untuk melakukan visualisasi data dari website imdb.com . Data yang digunakan merupakan hasil scrap dari web tersebut, mengambil data 5 tahun terakhir dari website tersebut.
 
 ## Informasi Proyek
 - **Nama**: Hafiz Ilham Ardana
@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk melakukan visualisasi data dari website boxOfficemojo
 - **Link Streamlit**: <a href="https://hafizilhamardana077-imdb-viz.streamlit.app">Klik</a>
 
 ## Deskripsi Folder
-- **boxOffice_scrapper1.py**: File yang berisi notebook jupyter untuk mengambil data, mengelola, dan memasukan ke file csv.
+- **imdb_scrapper.py**: File yang berisi notebook jupyter untuk mengambil data, mengelola, dan memasukan ke file csv.
 - **app.py**: File utama aplikasi Streamlit untuk visualisasi database Adventure Works.
 - **README.md**: File yang sedang Anda baca sekarang, memberikan deskripsi proyek dan instruksi penggunaan.
 
